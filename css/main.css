@@ -1,0 +1,77 @@
+.nav {
+  background-color: #E0E0FF;
+  height: 53px;
+  border-bottom: 10px double white;
+}
+
+.nav a {
+  color: #3D5266;
+  font-size: 16px;
+  font-weight: bold;
+  padding: 14px 10px 10px 14px;
+  text-transformation: uppercase;
+  background-color: d6ebff;
+}
+
+.nav li {
+  display: inline;
+}
+
+.jumbotron {
+  height: 450px;
+  background-image: url("http://i.imgur.com/94puorB.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.jumbotron h1 {
+  color: white;
+  font-size: 60px;
+  font-family: 'Lora', serif;
+  font-weight: bold;
+}
+
+.jumbotron p {
+  color: white;
+  font-size: 10px;
+}
+
+.jumbotron a {
+  color: white;
+}
+
+.learn-more {
+  background-color: #D6EBFF;
+}
+
+.learn-more h3 {
+  color: #665266;
+  font-family: 'Lora', serif;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.learn-more p {
+  color: #806680;
+  font-weight: bold;
+}
+
+.learn-more a {
+  text-decoration: none;
+  color: #b28fb2;
+}
+
+.neighborhood-guide {
+  background-color: #E0E0FF;
+  border-bottom: 1px solid #dbdbdb;
+}
+
+.neighborhood-guide h2 {
+  color: #393c3d;
+  font-size: 24px;
+}
+
+.neighborhood-guide p {
+  font-size: 15px;
+  margin-bottom: 13px;
+}
